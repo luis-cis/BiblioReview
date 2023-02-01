@@ -6,4 +6,4 @@ Here, the reader may find the VOSviewer relation map corresponding to [Figure 4 
 
 Also, the dataset used during the bibliometric analysis can be found on the "Dataset" folder
 
-Please cite as [cita]
+Please cite as [Cisneros, L. et al. (2023) “Fuzzy optimisation for business analytics: A Bibliometric analysis,” Journal of Intelligent & Fuzzy Systems, 44(2), pp. 2615–2630. DOI:10.3233/jifs-221573]
